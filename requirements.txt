@@ -1,0 +1,10 @@
+os
+hashlib
+streamlit
+gTTS
+NamedTemporaryFile
+ChatOpenAI
+PromptTemplate
+StrOutputParser
+audio_recorder
+openai
