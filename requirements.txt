@@ -1,5 +1,3 @@
-os
-hashlib
 streamlit
 gTTS
 NamedTemporaryFile
