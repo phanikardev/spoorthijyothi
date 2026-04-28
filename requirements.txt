@@ -1,8 +1,6 @@
 streamlit
 gTTS
-NamedTemporaryFile
-ChatOpenAI
-PromptTemplate
-StrOutputParser
-audio_recorder
+langchain-openai
+langchain-core
+audio-recorder-streamlit
 openai
